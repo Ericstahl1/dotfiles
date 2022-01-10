@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ericstahl8@gmail.com
+	name = Eric Stahl
